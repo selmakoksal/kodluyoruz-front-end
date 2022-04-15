@@ -1,0 +1,24 @@
+/*
+    css dosyasında
+            h1->crimson
+            h2->blueviolet
+            h3->green
+            ul->  .a {list-style-position: inside;}
+            ol->  .b {list-style-position: inside;}
+*/
+
+h1 {
+    color: crimson;
+}
+
+h2 {
+    color: blueviolet;
+}
+
+h3 {
+    color: green;
+}
+
+.a {
+    list-style-position: inside;
+}

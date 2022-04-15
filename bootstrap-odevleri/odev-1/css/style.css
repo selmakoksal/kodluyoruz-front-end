@@ -1,0 +1,41 @@
+body {
+    background-color: #E9ECEF;
+}
+
+h1 {
+    color: blueviolet;
+    text-align: center;
+}
+
+h3 {
+    color: green;
+}
+
+.jumbotron {
+    text-align: center;
+}
+
+ul {
+    list-style-position: inside;
+}
+
+img {
+    height: 300px;
+    object-fit: contain;
+}
+
+span {
+    background-color: rgb(87, 104, 105);
+    color: white;
+    border-color: rgb(87, 104, 105);
+    border-radius: 5px;
+    padding: 6px;
+}
+
+.card-body {
+    justify-content: left;
+}
+
+.card-title {
+    color: darkmagenta;
+}
