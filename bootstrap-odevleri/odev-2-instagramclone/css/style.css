@@ -50,3 +50,12 @@ input.empty {
 .middlearea {
   max-height: 200px !important;
 }
+
+#sticky-sidebar {
+  position: fixed;
+}
+
+.rightpanel {
+  border: none;
+  background-color: white;
+}
