@@ -61,10 +61,14 @@ input.empty {
 }
 
 body {
-  background-color: #FAFAFA;
+  background-color: #fff;
   padding: 75px;
 }
 
 .right {
   float: right;
+}
+
+.left {
+  float: left;
 }
