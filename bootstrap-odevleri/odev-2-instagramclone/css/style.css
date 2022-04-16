@@ -59,3 +59,8 @@ input.empty {
   border: none;
   background-color: white;
 }
+
+body {
+  background-color: #FAFAFA;
+  padding: 100px;
+}
