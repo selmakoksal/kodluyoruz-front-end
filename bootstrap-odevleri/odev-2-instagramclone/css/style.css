@@ -2,7 +2,7 @@
   text-align: center;
   font-size: 14px;
   color: gray;
-  background-position: 40%;
+  background-position: 38%;
   background-size: 6%;
   background-image: url(/bootstrap-odevleri/odev-2-instagramclone/assets/search-solid.svg);
   background-repeat: no-repeat;
@@ -62,7 +62,7 @@ input.empty {
 
 body {
   background-color: #FAFAFA;
-  padding: 100px;
+  padding: 75px;
 }
 
 .right {
