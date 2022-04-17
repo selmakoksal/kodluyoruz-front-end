@@ -1,0 +1,35 @@
+body {
+    font-family: 'PT Serif', serif;
+}
+
+.bg-yellow {
+    background-color: #FFC017;
+}
+
+.border-bottom-dark {
+    border-bottom: 1px solid rgba(41, 41, 41, 1)
+}
+
+.btn-outline-dark {
+    border-radius: 99em;
+    border-width: 1px;
+    font-size: 20px;
+    width: 213px;
+    height: 7px 20px 9px;
+}
+
+.btn-dark {
+    border-radius: 30px;
+}
+
+.display-2 {
+    font-size: 106px;
+    color: rgba(8, 8, 8, 1);
+    margin-bottom: 30px;
+}
+
+.lead {
+    width: 80%;
+    margin-bottom: 50px;
+    font-weight: 400
+}
