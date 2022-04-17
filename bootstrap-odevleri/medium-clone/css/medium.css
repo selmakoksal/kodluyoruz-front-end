@@ -37,3 +37,8 @@ body {
 .aside-buttons > li {
     margin-bottom: 8px;
 }
+
+.sidebar {
+    position: sticky;
+    top: 107px;
+}
