@@ -33,3 +33,7 @@ body {
     margin-bottom: 50px;
     font-weight: 400
 }
+
+.aside-buttons > li {
+    margin-bottom: 8px;
+}
