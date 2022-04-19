@@ -24,6 +24,12 @@ input.searche::placeholder {
   background-color: #f3f2ef;
 }
 
+.menutext2 {
+  font-size: 13px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: rgb(133, 133, 133);
+}
+
 .menutext {
   font-size: 13px;
   font-family: Arial, Helvetica, sans-serif;
