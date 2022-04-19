@@ -13,9 +13,11 @@ input.searche {
 input.searche::placeholder {
   font-size: 14px;
   color: gray;
-  background-image: url(/bootstraplinkedinclone/assets/search-solid.svg);
+  background-image: url(/bootstrap-odevleri/odev-3-linkedinclone/assets/search-solid.svg);
   background-repeat: no-repeat;
   background-size: 7%;
+  padding-left: 25px;
+  width: 200px;
 }
 
 .body {
